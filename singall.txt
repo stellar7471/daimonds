@@ -1,8 +1,9 @@
-signal.art
 signal.group
 signal.link
 signal.me
-signal.tube
 signal.org
 signalusers.org
-whispersystems.org
+textsecure-service.whispersystems.org
+cdn.signal.org
+storage.signal.org
+api.directory.signal.org
