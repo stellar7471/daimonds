@@ -1,5 +1,3 @@
-# viber.com
-
 viber.com
 invite.viber.com
 support.viber.com
@@ -586,3 +584,26 @@ market.api.viber.com
 media.api.eu.aws.viber.com
 statsdb-gan-team-ro-endpoint.aws.viber.com
 language-internal.viber.com
+secure.viber.com
+core.viber.com
+services.viber.com
+share.viber.com
+webadmin.viber.com
+config.viber.com
+reports.viber.com
+business.viber.com
+bm.viber.com
+update.viber.com
+vb.me
+viberdns.com
+abff.viber.com
+abtest.api.viber.com
+clients-content.cdn.viber.com
+content.cdn.viber.com
+data-event-proxy.viber.com
+data-events.cdn.viber.com
+fast.viber.com
+mixpanel.cdn.viber.com
+pg.cdn.viber.com
+vp.cdn.viber.com
+www.cdn.viber.com
