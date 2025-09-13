@@ -63,8 +63,8 @@ dev-web.whatsapp.com
 ratings.whatsapp.com
 w3.web-t.whatsapp.com
 lerecords.whatsapp.com
-www.xl.whatsapp.com
-www.whatsapp.com
+xl.whatsapp.com
+whatsapp.com
 w2.web-t.whatsapp.com
 ftl-fallback.whatsapp.com
 my-od-5.whatsapp.com
@@ -2081,12 +2081,12 @@ media.fisb4-1.fna.whatsapp.net
 my-od-5.wa.me
 my-od.wa.me
 my-od-4.wa.me
-www.wa.me
+wa.me
 my-od-2.wa.me
 my-od-1.wa.me
 my-od-3.wa.me
 packages.whatsapp.biz
 sb.whatsapp.biz
-www.packages.whatsapp.biz
+packages.whatsapp.biz
 docker.whatsapp.biz
-www.whatsapp.biz
+whatsapp.biz
