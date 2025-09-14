@@ -1,3 +1,4 @@
+whatsapp.net
 api.whatsapp.com
 web.whatsapp.com
 faq.whatsapp.com
