@@ -3,3 +3,13 @@ githubusercontent.com
 githubassets.com
 ctfassets.net
 cloudfront.net
+api.github.com
+avatars.githubusercontent.com
+collector.github.com
+github.githubassets.com
+raw.githubusercontent.com
+gist.github.com
+codeload.github.com
+assets-cdn.github.com
+objects.githubusercontent.com
+user-images.githubusercontent.com
