@@ -2091,3 +2091,11 @@ sb.whatsapp.biz
 packages.whatsapp.biz
 docker.whatsapp.biz
 whatsapp.biz
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
+whatsapp.com
+whatsapp.info
+whatsapp.org
+whatsapp.tv
